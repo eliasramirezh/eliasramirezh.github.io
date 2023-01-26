@@ -37,7 +37,7 @@ a:visited {
 }
 
 .btn-flotante {
-    font-size: 16px;
+    font-size: 32px;
     /* Cambiar el tamaño de la tipografia */
     text-transform: uppercase;
     /* Texto en mayusculas */
@@ -51,7 +51,7 @@ a:visited {
     /* Espacio entre letras */
     background-color: #FF1616;
     /* Color de fondo */
-    padding: 18px 30px;
+    padding: 36px 60px;
     /* Relleno del boton */
     position: fixed;
     bottom: 40px;
