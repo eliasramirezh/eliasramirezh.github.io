@@ -37,13 +37,13 @@ a:visited {
 }
 
 .btn-flotante {
-    font-size: 32px;
+    font-size: 38px;
     /* Cambiar el tamaño de la tipografia */
     text-transform: uppercase;
     /* Texto en mayusculas */
     font-weight: bold;
     /* Fuente en negrita o bold */
-    color: #000000;
+    color: #FFC01C;
     /* Color del texto */
     border-radius: 5px;
     /* Borde del boton */
@@ -51,7 +51,7 @@ a:visited {
     /* Espacio entre letras */
     background-color: #FF1616;
     /* Color de fondo */
-    padding: 36px 60px;
+    padding: 18px 30px;
     /* Relleno del boton */
     position: fixed;
     bottom: 40px;
@@ -63,6 +63,7 @@ a:visited {
 
 .btn-flotante:hover {
     background-color: #45C0AD;
+    color: #000000;
     /* Color de fondo al pasar el cursor */
     box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
     transform: translateY(-7px);
